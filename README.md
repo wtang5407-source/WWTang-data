@@ -131,3 +131,38 @@ individual resume
 📚 学习方向: 临床试验数据挖掘 | 医药市场分析 | NLP情报提取
 🛠️  技能提升: SQL优化 | Python工程化 | 数据可视化设计
 💼 职业规划: 医药咨询 | 药企战略/BD部门 | 医疗数据分析
+```
+
+## 🤝 合作与交流
+
+我对以下领域保持高度关注，欢迎交流探讨：
+
+- 💊 **创新药临床试验设计与成功率分析**
+- 📊 **医药市场情报收集与竞争格局研究**
+- 🤖 **AI在医药行业情报分析中的应用**
+- 🌐 **全球药物研发趋势追踪与预测**
+
+---
+
+## 📬 联系我
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@WWTang-181717?style=for-the-badge&logo=github)](https://github.com/wtang5407-source)
+[![Email](https://img.shields.io/badge/Email-weiwentang.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:13805045407@163.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ 感谢访问！期待与你在数据与医药的交叉点相遇 ⭐**
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WWTang.WWTang)
+
+</div>
+
+<!-- 底部装饰线 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9AFE&height=100&section=footer" width="100%"/>
+
