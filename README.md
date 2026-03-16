@@ -71,7 +71,7 @@ individual resume
 
 **技术亮点**：Pandas数据清洗 | Matplotlib/Seaborn可视化 | 业务洞察提炼
 
-**[📁 查看项目](https://github.com/yourusername/nsclc-clinical-trials-analysis)** | **[📊 分析报告](https://github.com/yourusername/nsclc-clinical-trials-analysis/blob/main/output/reports/business_insights_report.md)**
+**[📁 查看项目](https://github.com/wtang5407-source/nsclc-clinical-trials-analysis)** | **[📊 分析报告](https://github.com/yourusername/nsclc-clinical-trials-analysis/blob/main/output/reports/business_insights_report.md)**
 
 ---
 
@@ -90,7 +90,7 @@ individual resume
 | 探索分析 | 聚合统计高效 | 与可视化无缝衔接 |
 | 大数据量 | 数据库优化、索引 | 内存限制，需分块处理 |
 
-**[📁 查看项目](https://github.com/yourusername/titanic-sql-pandas-comparison)**
+**[📁 查看项目](https://github.com/wtang5407-source/titanic-sql-analysis)**
 
 ---
 
@@ -107,7 +107,7 @@ individual resume
 - 🔄 CTE（公用表表达式）构建复杂分析逻辑
 - 📈 基于SQL的数据透视与单因素/多因素分析
 
-**[📁 查看项目](https://github.com/yourusername/titanic-sql-analysis)**
+**[📁 查看项目](https://github.com/wtang5407-source/titanic-sql-analysis)**
 
 ---
 
