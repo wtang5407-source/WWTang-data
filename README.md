@@ -3,7 +3,7 @@ individual resume
 <!-- 顶部动态标题 -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97+%F0%9F%91%8B;Pharma+Data+Analyst+%F0%9F%92%8A;SQL+%7C+Python+%7C+Healthcare+Intelligence)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97+%F0%9F%91%8B;Pharma+Data+Analyst+%F0%9F%92%8A;SQL+%7C+Python+%7C+Healthcare+Intelligence)](https://git.io/typing-svg)
 
 </div>
 
@@ -115,9 +115,9 @@ individual resume
 
 <div align="center">
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2E9AFE&icon_color=28A745&text_color=333333)](https://github.com/yourusername)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2E9AFE&icon_color=28A745&text_color=333333)](https://github.com/wtang5407)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2E9AFE&text_color=333333)](https://github.com/yourusername)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2E9AFE&text_color=333333)](https://github.com/wtang5407)
 
 </div>
 
